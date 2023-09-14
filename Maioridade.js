@@ -1,3 +1,4 @@
+// Escreva em Node.JS usando modulo readline que leia uma idade e verificar se a pessoa é maior de idade (18 anos ou mais). 
 //Importando o módulo 
 const readline = require('readline-sync')
 
